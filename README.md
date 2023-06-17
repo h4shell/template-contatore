@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Lorenzo Fornara - [@your_twitter](https://twitter.com/your_username) - fw1987@gmail.com
+Lorenzo Fornara - fw1987@gmail.com
 
 Project Link: [https://github.com/h4shell/template-contatore](https://github.com/h4shell/template-contatore)
 
