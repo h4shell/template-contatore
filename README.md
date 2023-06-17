@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/foto1.png" alt="Logo" width="400" height="400">
+    <img src="img/preview.png" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Counter</h3>
