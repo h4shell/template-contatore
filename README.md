@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A counter is a device or program that keeps track of a count, or a running total, of something. Counters can be simple mechanical devices that increment a number each time a button or lever is pressed, or they can be complex software programs that keep track of data in a database. Counters are used in many different applications, such as traffic monitoring, inventory management, and website analytics. They can also be used for simple tasks, such as counting the number of steps taken or the number of times a button is clicked.
+This is a simple counter that uses the JavaScript prompt function to ask for an integer input greater than 1. Once a valid input is provided, the counter dynamically sets the value of a single tick and fills it proportionally to the value displayed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
