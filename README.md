@@ -1,12 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/preview.png" alt="Logo" width="400" height="400">
-  </a>
-
+  <img src="img/preview.png" alt="Logo" width="400" height="400">
   <h3 align="center">Counter</h3>
-
   <p align="center">
     A simple counter
     <br />
