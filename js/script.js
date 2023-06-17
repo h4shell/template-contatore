@@ -6,17 +6,34 @@ const btnMore = document.querySelector(".btnmore");
 const btnLess = document.querySelector(".btnless");
 const tacca = document.querySelectorAll(".tacca span");
 let num_tacche = 0;
+let minmax = [0, 0]
+let check = 0
 
 
 function setMinmax(){
     let x, y;
-    x = prompt("Inserisci minimo:");
-    y = prompt("Inserisci massimo:");
-    return [x,y]
+    x = 0
+    y = prompt("Inserisci un numero da [1 a ∞]:");
+  
+    while (Number.isInteger(parseInt(y)) & parseInt(y) >= 1){
+        return [x,y]
+    }
+    return [0, 0]
+  }
+  
+    
+while (check == 0){
+  if (minmax[1] > 1){
+    check = 1
+    
+  } else {
+    minmax = setMinmax()
+    
+  }
+  
+  
 }
-
-let minmax = setMinmax();
-
+  console.log(minmax)
 
 
 const valTacca = minmax[1] / 9;
