@@ -58,6 +58,11 @@
   
   .btn {
     position: absolute;
+    top: 90px;
+  }
+
+  .btn:hover{
+    cursor: pointer;
   }
   
   .btn::selection {
@@ -65,13 +70,13 @@
   }
   
   .btnless {
-    left: 20px;
-    top: -120px;
+    left: -20px;
+    
   }
   
   .btnmore {
-    right: 20px;
-    top: -120px;
+    right: -20px;
+    
   }
   
   .tacca {
